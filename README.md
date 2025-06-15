@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Development
 -------------
 
-Looking for a front-end developer job
+Looking for Experience.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [amarin.setthamanop@gmail.com](mailto:amarin.setthamanop@gmail.com)
